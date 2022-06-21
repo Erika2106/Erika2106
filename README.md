@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @Erika2106
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me in erika.mizuta@escola.pr.gov.br 
+- 👋 Oi,eu sou @Erika2106
+- 👀 Estou interessada em aprender a matéria de pensamento computacional 
+- 🌱 Atualmente estou aprendendo a usar o github
+- 💞️ Procuro colaborar em aprender a matéria
+
+- 📫 Onde me encontrar: erika.mizuta@escola.pr.gov.br 
 
 <!---
 Erika2106/Erika2106 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
